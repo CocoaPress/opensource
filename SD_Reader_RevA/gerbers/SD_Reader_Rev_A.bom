@@ -1,0 +1,10 @@
+# Ref     Val                          Package                                 Digikey Part
+
+C1        10uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering
+C2        33uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering    
+C3        0.1uF 50V                    C_0603_HandSoldering
+CON1      SD Recepticle                TE PN 204121-4                          A101492CT-ND or Equiv.
+P1        Shrouded Header 2x5          0.100 Inch 
+R1        10k                          R_0603_HandSoldering
+U1        LM1117_3V3                   TO-252-2Lead
+U2        74HC4050                     SO-16-N                                 
